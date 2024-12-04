@@ -1,0 +1,10 @@
+/home/ekaterina/.gnupg/private-keys-v1.d
+/home/ekaterina/Videos
+/home/ekaterina/Public
+/home/ekaterina/.vscode/cli
+/home/ekaterina/Templates
+/home/ekaterina/.config/goa-1.0
+/home/ekaterina/.cache/obexd
+/home/ekaterina/Desktop
+/home/ekaterina/.mozilla/extensions
+/home/ekaterina/Music
