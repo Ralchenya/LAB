@@ -1,0 +1,7 @@
+string = input('Введите строку:')
+izm_string = string.replace('а','о')
+zam_count = string.count('а')
+sim_count = len(string)
+print('Строка после замены:', izm_string)
+print('Количество замен:', zam_count)
+print('Количество символов в строке:', sim_count)
